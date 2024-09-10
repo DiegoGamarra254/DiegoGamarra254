@@ -1,6 +1,7 @@
 # Diego Gamarra Rivera
 - 👋 Hi, I’m @DiegoGamarra254
-- 👀 I’m interested in Python, Data Science and Data Analytics, i am also Industrial Engineer
+- 👀 I’m interested in Python, SQL Data Science and Data Analytics, i am also Industrial Engineer
+- 👀 I'm also interested in Tableau and Power BI
 - 💞️ I’m looking to collaborate on Data Science and Analytics projects
 - 📫 How to reach me ...Linkedin !
 - https://www.linkedin.com/in/diegogamarrarivera/
